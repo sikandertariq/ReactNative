@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     alignSelf: "center", // Add this line to center the image horizontally
   },
   imageContainer: {
-    margin: 10,
+    margin: 20,
     paddingTop: 60,
     borderRadius: 18,
     overflow: "hidden",
